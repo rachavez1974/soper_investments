@@ -5,7 +5,7 @@ class StaticPagesController < ApplicationController
   def invetment_banking
   end
 
-  def private_investment
+  def venture_capital
   end
 
   def about
@@ -16,4 +16,6 @@ class StaticPagesController < ApplicationController
 
   def contact
   end
+
+  
 end
