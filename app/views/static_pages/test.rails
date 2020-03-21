@@ -1,0 +1,120 @@
+<div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5ab1743d976b3 fl-row-bg-overlay" data-node="5ab1743d976b3">
+  <div class="fl-row-content-wrap">
+    <div class="uabb-row-separator uabb-top-row-separator">
+</div>
+            <div class="fl-row-content fl-row-fixed-width fl-node-content">
+    
+<div class="fl-col-group fl-node-5ab1743d976f0" data-node="5ab1743d976f0">
+      <div class="fl-col fl-node-5ab1743d9772d fl-col-has-cols" data-node="5ab1743d9772d">
+  <div class="fl-col-content fl-node-content">
+  
+<div class="fl-col-group fl-node-5ab1743d9776a fl-col-group-nested fl-col-group-equal-height fl-col-group-align-top" data-node="5ab1743d9776a">
+      <div class="fl-col fl-node-5ab1743d977a7 fl-col-small" data-node="5ab1743d977a7">
+  <div class="fl-col-content fl-node-content">
+  <div class="fl-module fl-module-pp-heading fl-node-5ab17478b7de2" data-node="5ab17478b7de2">
+  <div class="fl-module-content fl-node-content">
+    <div class="pp-heading-content">
+    <div class="pp-heading  pp-center">
+
+    <h3 class="heading-title">
+
+      
+      <span class="title-text pp-primary-title">MERGERS &amp;  <br> ACQUISITIONS</span>
+      
+      
+    </h3>
+
+  </div>
+        <div class="pp-sub-heading">
+      <p>Dinan &amp; Company’s clients receive senior level attention on all transactions, regardless of size.</p>    </div>
+  
+  </div>
+  </div>
+</div>
+<div class="fl-module fl-module-pp-smart-button fl-node-5ab17481a6d13" data-node="5ab17481a6d13">
+  <div class="fl-module-content fl-node-content">
+    <div class="pp-button-wrap pp-button-width-full">
+  <a href="/service/sell-side-m-a/" target="_self" class="pp-button" role="button">
+        <span class="pp-button-text">LEARN MORE</span>
+      </a>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+      <div class="fl-col fl-node-5ab1743d977e4 fl-col-small" data-node="5ab1743d977e4">
+  <div class="fl-col-content fl-node-content">
+  <div class="fl-module fl-module-pp-heading fl-node-5ab17464600de" data-node="5ab17464600de">
+  <div class="fl-module-content fl-node-content">
+    <div class="pp-heading-content">
+    <div class="pp-heading  pp-center">
+
+    <h3 class="heading-title">
+
+      
+      <span class="title-text pp-primary-title">VALUATIONS &amp;  FAIRNESS OPINIONS</span>
+      
+      
+    </h3>
+
+  </div>
+        <div class="pp-sub-heading">
+      <p>Dinan’s valuation services provide our clients with independent, objective advice throughout every stage of a transaction.</p>   </div>
+  
+  </div>
+  </div>
+</div>
+<div class="fl-module fl-module-pp-smart-button fl-node-5ab1748d25bcf" data-node="5ab1748d25bcf">
+  <div class="fl-module-content fl-node-content">
+    <div class="pp-button-wrap pp-button-width-full">
+  <a href="/service/valuation-fairness-opinions/" target="_self" class="pp-button" role="button">
+        <span class="pp-button-text">LEARN MORE</span>
+      </a>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+      <div class="fl-col fl-node-5ab1743d97821 fl-col-small" data-node="5ab1743d97821">
+  <div class="fl-col-content fl-node-content">
+  <div class="fl-module fl-module-pp-heading fl-node-5ab17487e96b9" data-node="5ab17487e96b9">
+  <div class="fl-module-content fl-node-content">
+    <div class="pp-heading-content">
+    <div class="pp-heading  pp-center">
+
+    <h3 class="heading-title">
+
+      
+      <span class="title-text pp-primary-title">MERCHANT <br> BANKING</span>
+      
+      
+    </h3>
+
+  </div>
+        <div class="pp-sub-heading">
+      <p>Dinan &amp; Company has been investing its own equity capital in buyout and growth financings since 1996.</p>    </div>
+  
+  </div>
+  </div>
+</div>
+<div class="fl-module fl-module-pp-smart-button fl-node-5ab1746cab9a8" data-node="5ab1746cab9a8">
+  <div class="fl-module-content fl-node-content">
+    <div class="pp-button-wrap pp-button-width-full">
+  <a href="/service/merchant-banking/" target="_self" class="pp-button" role="button">
+        <span class="pp-button-text">LEARN MORE</span>
+      </a>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+  </div>
+</div>
+  </div>
+
+
+<%= javascript_tag "addTextByDelay()" %>
+
+<%= javascript_tag "addTextByDelay('team-text', 'The Cascade Partners team's broad and multi-disciplinary experience operating, investing, and advising companies offers its clients and partners a distinct competitive advantage.')" %> 
+                      

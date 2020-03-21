@@ -11,6 +11,34 @@
 // about supported directives.
 //
 //= require rails-ujs
-//= require activestorage
+//= require jquery
+//= require bootstrap
+//= require rails-ujs
 //= require turbolinks
-//= require_tree .
+//= require jquery.easing
+//= font-awesome-rails
+//= require_tree .  
+
+
+
+var addTextByDelay = function(el){
+
+    var $el = $(el),
+        text = $el.text(),
+        speed = 200; //ms
+
+    $el.empty();
+
+    var wordArray = text.split(' '),
+        i = 0;
+
+    INV = setInterval(function () {
+        if (i >= wordArray.length - 1) {
+            clearInterval(INV);
+        } else {
+          $el.append(wordArray[i] + ' ');
+          i++;
+        }
+        
+    }, speed);
+}
