@@ -1,0 +1,4686 @@
+<meta name="turbolinks-visit-control" content="reload">
+        
+<div id="promotedGalleryWrapper" class="sqs-layout promoted-gallery-wrapper"><div class="row"><div class="col"></div></div></div>
+                
+    
+      <main id="page" role="main">
+        
+        <!--
+        --><!--
+        --><!--
+        --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="53923a20e4b05bede084dcc5" data-edit-main-image="">
+         <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1574279148877" id="page-53923a20e4b05bede084dcc5"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;existing&quot;,&quot;existingGallery&quot;:&quot;54f50da1e4b06cc55606924c&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:true,&quot;autoplay-duration&quot;:5,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;54f50da1e4b06cc55606924c&quot;,&quot;controls&quot;:false,&quot;design&quot;:&quot;slideshow&quot;,&quot;existingGalleryId&quot;:&quot;54f50da1e4b06cc55606924c&quot;,&quot;meta-position&quot;:&quot;center&quot;,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;show-meta-on-hover&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails&quot;:false,&quot;vSize&quot;:null&#125;" data-block-type="8" id="block-yui_3_17_2_2_1425504736922_13173"><div class="sqs-block-content">
+
+
+  
+
+  
+
+
+<div class=" sqs-gallery-container sqs-gallery-block-slideshow sqs-gallery-block-show-meta sqs-gallery-block-meta-position-center sqs-gallery-block-show-meta block-animation-none
+  clear"
+  >
+  <div class="sqs-gallery">
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="<%= asset_path('cobblestone_home_page.jpg') %>" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 22 
+ 127 
+ Meyler Capital 
+ 1 
+ 1 
+ 148 
+ 14.0      
+  
+ Normal 
+ 0 
+ 
+ 
+ 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   Hi Harold, this is your website.  Now let's get it to where you want it to be.     " /></noscript><img class="thumb-image" data-src="<%= asset_path('cobblestone_home_page.jpg') %>" data-image="<%= asset_path('cobblestone_home_page.jpg') %>" data-image-dimensions="1400x933" data-image-focal-point="0.5,0.5" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 22 
+ 127 
+ Meyler Capital 
+ 1 
+ 1 
+ 148 
+ 14.0 
+  
+  
+ 
+ 
+  
+     
+  
+ Normal 
+ 0 
+ 
+ 
+ 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   Hi Harold, this is your website.  Now let's get it to where you want it to be.  " data-load="false" data-image-id="54f50dd9e4b04fe5fb88efd1" data-type="image" />
+                
+                  <div class="meta">
+                    <div class="meta-inside">
+                      
+                      <div class="meta-description"><p><strong><!--[if gte mso 9]><xml>
+ 
+<![endif]--> <!--StartFragment--><p id="first-home-pic-text">Hi Harold, this is your website.  Now let's get it to where you want it to be. </p> <%= javascript_tag "addTextByDelay('#first-home-pic-text')" %></strong></p><!--EndFragment--></div>
+                    </div>
+                  </div>
+                
+              <div class="color-overlay"></div>
+            </div>
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img name="handshake" src="<%= asset_path('handshake_home_page.jpg', id: "slide_pic_2") %>" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 24 
+ 141 
+ Meyler Capital 
+ 1 
+ 1 
+ 164 
+ 14.0 
+  
+ Normal 
+ 0 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+       At Cascade Partners, we help our partners grow their businesses through acquisitions, financing and our experience as operators, investors and deal professionals.&amp;nbsp;      " /></noscript><img name="handshake" class="thumb-image" data-src="<%= asset_path('handshake_home_page.jpg', id: "slide_pic_2") %>" data-image="<%= asset_path('handshake_home_page.jpg', id: "slide_pic_2") %>" data-image-dimensions="2048x1336" data-image-focal-point="0.5,0.5" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 24 
+ 141 
+ Meyler Capital 
+ 1 
+ 1 
+ 164 
+ 14.0 
+ 
+ Normal 
+ 0 
+
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+       At Cascade Partners, we help our partners grow their businesses through acquisitions, financing and our experience as operators, investors and deal professionals.&amp;nbsp;      " data-load="false" data-image-id="54f50dd7e4b0c8f53fe20a89" data-type="image" />
+              
+
+              
+                  <div class="meta">
+                    <div class="meta-inside">
+                      <div class="meta-description"><p><strong><!--[if gte mso 9]><xml>
+                      
+
+<![endif]--> <!--StartFragment--><p id="second-home-pic-text">At Cascade Partners, we help our partners grow their businesses through acquisitions, financing and our experience as operators, investors and deal professionals.</p><%= javascript_tag "element_present('#second-home-pic-text', '#slide_pic_2')" %> </strong></p><!--EndFragment--></div>
+                    </div>
+                  </div>
+
+              
+              <div class="color-overlay"></div>
+            </div>
+        
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="<%= asset_path('nightoffice_home_page.jpg') %>" alt="    
+
+
+  
+   
+ 0 
+ 0 
+ 1 
+ 27 
+ 160 
+ Meyler Capital 
+ 1 
+ 1 
+ 186 
+ 14.0 
+ 
+ Normal 
+ 0 
+ 
+ 
+ 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   The team at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.     " /></noscript><img class="thumb-image" data-src="<%= asset_path('nightoffice_home_page.jpg') %>" data-image="<%= asset_path('nightoffice_home_page.jpg') %>" data-image-dimensions="900x600" data-image-focal-point="0.5,0.5" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 27 
+ 160 
+ Meyler Capital 
+ 1 
+ 1 
+ 186 
+ 14.0 
+  
+ Normal 
+ 0 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   The team at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.     " data-load="false" data-image-id="54f50dd9e4b0c8f53fe20aaa" data-type="image" />
+              
+
+              
+                
+                  <div class="meta">
+                    <div class="meta-inside">
+                      
+                      <div class="meta-description"><p id="third-home-pic-text"><strong><!--[if gte mso 9]><xml>
+ 
+<![endif]--> <!--StartFragment-->The team at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.</strong><%= javascript_tag "addTextByDelay('#third-home-pic-text')" %></p><p><!--EndFragment--></p></div>
+                    </div>
+                  </div>
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+<div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="<%= asset_path('plantgrowing_home_page.jpg') %>" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 27 
+ 160 
+ Meyler Capital 
+ 1 
+ 1 
+ 186 
+ 14.0 
+  
+  
+ 
+ 
+  
+     
+  
+ Normal 
+ 0 
+ 
+ 
+ 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   The team at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.     " /></noscript><img class="thumb-image" data-src="<%= asset_path('plantgrowing_home_page.jpg') %>" data-image="<%= asset_path('plantgrowing_home_page.jpg') %>" data-image-dimensions="900x600" data-image-focal-point="0.5,0.5" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 27 
+ 160 
+ Meyler Capital 
+ 1 
+ 1 
+ 186 
+ 14.0 
+  
+  
+ 
+ 
+  
+     
+  
+ Normal 
+ 0 
+ 
+ 
+ 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   The team at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.     " data-load="false" data-image-id="54f50dd9e4b0c8f53fe20aaa" data-type="image" />
+              
+
+              
+                
+                  <div class="meta">
+                    <div class="meta-inside">
+                      
+                      <div class="meta-description"><p><strong><!--[if gte mso 9]><xml>
+
+<![endif]--> <!--StartFragment-->Plant growing at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.</strong></p><p><!--EndFragment--></p></div>
+                    </div>
+                  </div>
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+<div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="<%= asset_path('terra-planeta_home_page.jpg') %>" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 27 
+ 160 
+ Meyler Capital 
+ 1 
+ 1 
+ 186 
+ 14.0 
+  
+  
+ 
+ 
+  
+     
+  
+ Normal 
+ 0 
+ 
+ 
+ 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   The team at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.     " /></noscript><img class="thumb-image" data-src="<%= asset_path('terra-planeta_home_page.jpg') %>" data-image="<%= asset_path('terra-planeta_home_page.jpg') %>" data-image-dimensions="900x600" data-image-focal-point="0.5,0.5" alt="    
+  
+ 0 
+ 0 
+ 1 
+ 27 
+ 160 
+ Meyler Capital 
+ 1 
+ 1 
+ 186 
+ 14.0 
+  
+  
+ 
+ 
+  
+     
+  
+ Normal 
+ 0 
+ 
+ 
+ 
+ 
+ false 
+ false 
+ false 
+ 
+ EN-US 
+ JA 
+ X-NONE 
+ 
+ /* Style Definitions */
+table.MsoNormalTable
+  {mso-style-name:&quot;Table Normal&quot;;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:&quot;&quot;;
+  mso-padding-alt:0in 5.4pt 0in 5.4pt;
+  mso-para-margin-top:0in;
+  mso-para-margin-right:0in;
+  mso-para-margin-bottom:10.0pt;
+  mso-para-margin-left:0in;
+  line-height:115%;
+  mso-pagination:widow-orphan;
+  font-size:11.0pt;
+  font-family:Calibri;
+  mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;}
+ 
+   The team at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.     " data-load="false" data-image-id="54f50dd9e4b0c8f53fe20aaa" data-type="image" />
+              
+
+              
+                
+                  <div class="meta">
+                    <div class="meta-inside">
+                      
+                      <div class="meta-description"><p><strong><!--[if gte mso 9]><xml>
+ 
+<![endif]--> <!--StartFragment-->Terra-planeta at Cascade Partners is focused on building long term relationships. This focus provides our partners with the benefit of impartial advice designed to realize shareholder value.</strong></p><p><!--EndFragment--></p></div>
+                    </div>
+                  </div>
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+
+
+<%= render 'static_pages/partials/learn_more_cols' %>
+<div class="
+  summary-block-wrapper
+
+  summary-block-collection-type-gallery
+
+  summary-block-setting-text-size-small
+  summary-block-setting-text-align-left
+
+  summary-block-setting-design-carousel
+  summary-block-setting-design-list-thumbnail-left
+
+  summary-block-setting-metadata-position-below-content
+  summary-block-setting-primary-metadata-none
+  summary-block-setting-secondary-metadata-none
+
+  summary-block-setting-show-thumbnail
+  
+  summary-block-setting-show-price
+  summary-block-setting-hide-excerpt
+  
+
+  
+
+  sqs-gallery-design-carousel
+
+  
+  "
+
+  
+>
+
+  <div class="summary-item-list-container sqs-gallery-container">
+
+    <header class="summary-block-header">
+
+      <!-- Collection Title -->
+      <div class="summary-heading">
+        
+          <span class="summary-collection-title">Tombstones</span>
+        
+      </div>
+
+      <!-- Carousel Nav -->
+      <div class="summary-carousel-pager sqs-gallery-controls">
+        <span class="summary-carousel-pager-next next"></span>
+        <span class="summary-carousel-pager-prev previous"></span>
+      </div>
+
+    </header>
+
+    <div class="summary-item-list sqs-gallery">
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2020/1/9/954l9fmkljcu2241tlc81qiivbmss1" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1578587311767-FDEE30MP46O964VC6ECJ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1578587311767-FDEE30MP46O964VC6ECJ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/image-asset.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt=""  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+ 
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+ 
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2019/12/16/ptdln6h1owx09gkxbvgh3l7nm9tjw1" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1576534765385-ZFM8YK3XM4GDHQW54FA8/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Asset+9%404x.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1576534765385-ZFM8YK3XM4GDHQW54FA8/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Asset+9%404x.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Asset 9@4x.png"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+ 
+</div>
+            </div>
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2019/12/16/p2k356e13xsqi2sowiscgc2itq4gjo" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1576532057082-HA9OQ9E4UPOOC6AB3ZW0/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Asset+10%404x.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1576532057082-HA9OQ9E4UPOOC6AB3ZW0/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Asset+10%404x.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Asset 10@4x.png"  data-load="false" class="summary-thumbnail-image"/>
+
+  
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+ 
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2019/11/19/zktigd8zrnyudm959zda9b6hj4ixgh" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1574197150406-PYZF1KBMQQP4DTAK9ZZJ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Amarex.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1574197150406-PYZF1KBMQQP4DTAK9ZZJ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Amarex.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="NSF_Amarex.png"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+ 
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+        
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/xrsjuyv7q9ohnj6rardchw1t4pnqis" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+ 
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1567539208898-UNT0MBD8QD744KJ5ZTCN/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Security+Corp_ADT.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1567539208898-UNT0MBD8QD744KJ5ZTCN/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Security+Corp_ADT.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Security Corp_ADT.png"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+ 
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2019/9/3/k5qsr3lxr8ceyzc1v2nmyxzydgmrht" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1567539182247-QYEXA60LCDUG4XBCYRKB/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Waterwatch_Conservice.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1567539182247-QYEXA60LCDUG4XBCYRKB/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Waterwatch_Conservice.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Waterwatch_Conservice.png"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2019/6/28/wzsypo9p445qn7f9o7i4ih4pbd7uta" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1561726464331-TL4T3TO4AN0A838WFF5U/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Morae_Lateral.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1561726464331-TL4T3TO4AN0A838WFF5U/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Morae_Lateral.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Morae_Lateral.png"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+ 
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+   
+
+</div>
+            </div>
+
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2019/6/28/bhovoezu0ok0ye37j2i1636kx504x1" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1561726375702-8X0QXMGEDC9CMBW8SP1Y/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Remington_GridIron.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1561726375702-8X0QXMGEDC9CMBW8SP1Y/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Remington_GridIron.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Remington_GridIron.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+ 
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2018/10/29/e4rflqrognyuszddo4y84ticgc0ska" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540832868003-CD3020RBLOURV3S2UYC3/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Northwest+Eye.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540832868003-CD3020RBLOURV3S2UYC3/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Northwest+Eye.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Northwest Eye.png"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+ 
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2018/10/16/sqbsrikm8vc1zcvl70aqqdu1ul3j9v" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1539717110371-5Q0J4TZI46IVYXHH882L/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Surgere+Cypress.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1539717110371-5Q0J4TZI46IVYXHH882L/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Surgere+Cypress.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Surgere Cypress.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2018/7/24/dolpi5zca4lxslvd4azqemxa1q5eff" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1532469811742-KCJYVSPKOS9WK5ORISU8/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Medbio+Graham.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1532469811742-KCJYVSPKOS9WK5ORISU8/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Medbio+Graham.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Medbio Graham.png"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+ 
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+ 
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2018/7/10/ts7i9jo6a58pt1d7bure148rt99x8s" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1531249583383-OYULZN2R9KDASTL0FZ1V/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/KEA+APP%404x.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1531249583383-OYULZN2R9KDASTL0FZ1V/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/KEA+APP%404x.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="KEA APP@4x.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2018/5/16/4wei5hq36xlpq1owpmjx41y1u7y1g9" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1526482395750-3Z9A2M7SGRO27TS0CY75/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/EMS+Avante.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1526482395750-3Z9A2M7SGRO27TS0CY75/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/EMS+Avante.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="EMS Avante.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2018/4/24/nhhaybq8wtxjj0f9i7ey7214cdqsby" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524592192276-UWWVHE73N0T5Q91OXUB6/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Lassen.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524592192276-UWWVHE73N0T5Q91OXUB6/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Lassen.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Lassen.png"  data-load="false" class="summary-thumbnail-image"/>
+
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/mqhfx3uhlkh79qqasjjg05lm3sm8sg" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554431940-1VP1OZU94072DQV3EN14/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/TCC_Brightwood.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554431940-1VP1OZU94072DQV3EN14/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/TCC_Brightwood.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="TCC_Brightwood.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/1j92urhutn4s1e0kvhgdru37xd13x3" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554448344-EVTJEK6KEORHBIHS7RDI/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Morae+White+Oak.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554448344-EVTJEK6KEORHBIHS7RDI/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Morae+White+Oak.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Morae White Oak.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/wx77nbfttika4cxgzayx3mcq7aek38" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554503593-9YR2W8XJFNIVDS71GAKK/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF+Prosystem.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554503593-9YR2W8XJFNIVDS71GAKK/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF+Prosystem.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="NSF Prosystem.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/bawxrusi9v184f7o28b08y44vr2cxx" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554516987-S8NT2XN8DUP9LWP1IJAE/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Mason.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1518554516987-S8NT2XN8DUP9LWP1IJAE/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Mason.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Mason.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/ruqq0rkywwpz2nvcq1korwtutey1rg" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1488212886355-YSVDWXQZRYB0RCDFUN66/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/GRO+for+website.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1488212886355-YSVDWXQZRYB0RCDFUN66/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/GRO+for+website.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="GRO for website.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2016/8/8/nsf-has-acquired-euro-consultants-1" class="summary-thumbnail-container sqs-gallery-image-container" data-title="NSF Has Acquired Euro Consultants" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1470699924765-7S0MTKTBZ9VGLR1I3MX8/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF+Euro+Consultants+225.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1470699924765-7S0MTKTBZ9VGLR1I3MX8/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF+Euro+Consultants+225.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="NSF Has Acquired Euro Consultants"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2016/10/15/dybg2t9h4a94nzsrczmia1y1pwersv" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1476544826633-K12NY8LZUVH0LNER03OB/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Degara+for+website.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1476544826633-K12NY8LZUVH0LNER03OB/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Degara+for+website.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Degara for website.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="/tombstones-1/2u89o7s7xcsn862n0o654r3r3w3lxm" class="summary-thumbnail-container sqs-gallery-image-container" data-title="" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1488213102546-JELY14APLUXE9OXYTRHN/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Quaker+for+website.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1488213102546-JELY14APLUXE9OXYTRHN/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Quaker+for+website.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Quaker for website.png"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2016/1/19/nsf-has-acquired-authentechnologies">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2016/1/19/nsf-has-acquired-authentechnologies" class="summary-thumbnail-container sqs-gallery-image-container" data-title="NSF has acquired AuthenTechnologies" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493770-GG66KXE1LZNRYD3Y27DW/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Authentechnologies.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493770-GG66KXE1LZNRYD3Y27DW/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Authentechnologies.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="NSF has acquired AuthenTechnologies"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2016/1/19/link-tool-manufacturing-has-been-acquired-by-pennengineering">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2016/1/19/link-tool-manufacturing-has-been-acquired-by-pennengineering" class="summary-thumbnail-container sqs-gallery-image-container" data-title="Link Tool &amp; Manufacturing has been acquired by PennEnginnering" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493660-RYGTC3DP1X0CYTAPB0EQ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/LinkTool_PEMEngineering.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493660-RYGTC3DP1X0CYTAPB0EQ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/LinkTool_PEMEngineering.png" data-image-dimensions="675x900" data-image-focal-point="0.46081213857613357,0.52218017578125" alt="Link Tool &amp; Manufacturing has been acquired by PennEnginnering"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2015/10/4/nsf-has-acquired-avarent">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2015/10/4/nsf-has-acquired-avarent" class="summary-thumbnail-container sqs-gallery-image-container" data-title="NSF has acquired Avarent" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493830-KM0D7HGPQD7P1JSN0UTM/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Avarent.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493830-KM0D7HGPQD7P1JSN0UTM/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Avarent.png" data-image-dimensions="675x900" data-image-focal-point="0.48529404284907324,0.5073443377459491" alt="NSF has acquired Avarent"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2015/10/4/barfly-ventures-raised-capital-from-congruent-investment-partners-and-main-street-capital-corporation">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2015/10/4/barfly-ventures-raised-capital-from-congruent-investment-partners-and-main-street-capital-corporation" class="summary-thumbnail-container sqs-gallery-image-container" data-title="BarFly Ventures has secured a $25 million investment" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043492851-5K0VOGREK2TEQ49DNNKI/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/BarFly.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043492851-5K0VOGREK2TEQ49DNNKI/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/BarFly.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="BarFly Ventures has secured a $25 million investment"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2015/10/4/providence-group-raised-capital-from-gemino-healthcare-finance">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2015/10/4/providence-group-raised-capital-from-gemino-healthcare-finance" class="summary-thumbnail-container sqs-gallery-image-container" data-title="Providence Group has secured senior debt financing from Gemino Healthcare Finance" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043494451-EGW1MBYY3ZXAI74GUL0A/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Providence_Gemino.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043494451-EGW1MBYY3ZXAI74GUL0A/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/Providence_Gemino.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="Providence Group has secured senior debt financing from Gemino Healthcare Finance"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2014/5/19/nsf-has-acquired-becker-associates">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2014/5/19/nsf-has-acquired-becker-associates" class="summary-thumbnail-container sqs-gallery-image-container" data-title="NSF has acquired Becker &amp; Associates" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+  
+
+    
+
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493887-HSSKE4BYBNY4AL9FQAVQ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Becker.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493887-HSSKE4BYBNY4AL9FQAVQ/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/NSF_Becker.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="NSF has acquired Becker &amp; Associates"  data-load="false" class="summary-thumbnail-image"/>
+
+    
+
+    
+
+        
+
+        
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+  
+
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2015/10/4/emergency-medicine-specialists-was-acquired-by-teamhealth">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2015/10/4/emergency-medicine-specialists-was-acquired-by-teamhealth" class="summary-thumbnail-container sqs-gallery-image-container" data-title="EMS has merged with TeamHealth" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+ 
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493504-130F3L3N19XVTCKPIF4I/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/EMS_TeamHealth.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493504-130F3L3N19XVTCKPIF4I/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/EMS_TeamHealth.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="EMS has merged with TeamHealth"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+  
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+ 
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+        <div class="
+          summary-item
+          summary-item-record-type-image
+          sqs-gallery-design-carousel-slide
+          
+           summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-author
+          
+          "
+          data-click-through-url="http://www.cascade-partners.com/tombstones/2015/10/4/idc-has-acquired-na-publishing">
+
+          
+            <!-- Thumbnail -->
+            
+
+  
+  <div class="summary-thumbnail-outer-container">
+    <a href="http://www.cascade-partners.com/tombstones/2015/10/4/idc-has-acquired-na-publishing" class="summary-thumbnail-container sqs-gallery-image-container" data-title="IDC has acquired NA Publishing" data-description="">
+      <div class="summary-thumbnail img-wrapper">
+ 
+        <!-- Main Image -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493655-LBMNAZF3FOHO4RGLMDF3/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/IDC_NAPublishing.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1455043493655-LBMNAZF3FOHO4RGLMDF3/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/IDC_NAPublishing.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" alt="IDC has acquired NA Publishing"  data-load="false" class="summary-thumbnail-image"/>
+
+      </div>
+    </a>
+
+    <!-- Products: Quick View -->
+    
+
+  </div>
+
+          <div class="summary-content sqs-gallery-meta-container">
+
+            <!-- Metadata (Above Title) -->
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+            
+
+            <!-- Metadata (Below Title) -->
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+
+            <!-- Metadata (Below Content) -->
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+</div>
+            </div>
+
+          </div> <!-- End .summary-content -->
+
+        </div> <!-- End .summary-item -->
+
+      
+
+    </div> <!-- End .summary-item-list -->
+
+  </div> <!-- End .summary-item-list-container -->
+
+</div>
+</div></div>
+
+
+
+</div></div></div></div></div>
+        </div><!--
+        -->
+      
+      </main>
+
+

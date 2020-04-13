@@ -1,11 +1,17 @@
 class StaticPagesController < ApplicationController
+
+
+
   def home
+
   end
 
-  def invetment_banking
+  def investment_banking
+    @anchor = params[:section]
   end
 
-  def venture_capital
+  def venture_plus_growth
+    @anchor = params[:section]
   end
 
   def about
@@ -17,5 +23,5 @@ class StaticPagesController < ApplicationController
   def contact
   end
 
-  
+
 end

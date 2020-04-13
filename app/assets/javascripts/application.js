@@ -13,19 +13,19 @@
 //= require rails-ujs
 //= require jquery
 //= require bootstrap
+//= require bootstrap-sprockets
 //= require rails-ujs
 //= require turbolinks
 //= require jquery.easing
 //= font-awesome-rails
-//= require_tree .  
+//= require_tree .
 
 
-
-var addTextByDelay = function(el){
+var addTextByDelay = function(el, linkRequested = null){
 
     var $el = $(el),
         text = $el.text(),
-        speed = 200; //ms
+        speed = 200;
 
     $el.empty();
 
@@ -33,12 +33,24 @@ var addTextByDelay = function(el){
         i = 0;
 
     INV = setInterval(function () {
-        if (i >= wordArray.length - 1) {
+        if (i >= wordArray.length) {
             clearInterval(INV);
         } else {
           $el.append(wordArray[i] + ' ');
           i++;
         }
-        
+
     }, speed);
+
 }
+
+
+
+  var gotToElement = function(id){
+    $(document).ready(function(){
+      const $link = $('a').filter(function(index) { return $(this).text() === "Sectors"; });
+      $link[1].click();
+    });
+
+  }
+
