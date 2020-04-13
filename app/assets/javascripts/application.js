@@ -21,7 +21,7 @@
 //= require_tree .
 
 
-var addTextByDelay = function(el, linkRequested = null){
+var addTextByDelay = function(el){
 
     var $el = $(el),
         text = $el.text(),
