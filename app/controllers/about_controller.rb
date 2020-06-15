@@ -13,7 +13,7 @@ class AboutController < ApplicationController
   end
 
   def email_harold
-    @user_info = {
+    user_info = {
       name: params[:name],
       email: params[:email],
       message: params[:message],
