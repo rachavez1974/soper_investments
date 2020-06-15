@@ -2,11 +2,8 @@ class ContactUsMailer < ApplicationMailer
 
 
   def email_harold(user)
-    mail(to: "rachavez1974@gmail.com",
-         name: user[:name],
-         from: user[:email],
-         body: user[:message],
-         content_type: "text/html",
-         subject: user[:subject])
+    @user_info = user
+    # byebug
+    mail(to: "rachavez1974@gmail.com", subject: "Harold, you have an new email!")
   end
 end
