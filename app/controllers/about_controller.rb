@@ -20,7 +20,9 @@ class AboutController < ApplicationController
       subject: params[:subject]
     }
 
-    MailJob.perform_later(@user_info)
+        ContactUsMailer.email_harold(user_info).deliver_now
+
+    # MailJob.perform_later(@user_info)
     redirect_to about_team_path
   end
 end
