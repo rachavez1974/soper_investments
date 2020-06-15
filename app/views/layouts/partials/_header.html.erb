@@ -66,69 +66,63 @@
 
 
             <div class="collection active homepage">
-              <%= link_to "Home", root_path, method: :get%>
+              <%= link_to "Home", root_path, method: :get %>
             </div>
 
           <div class="folder">
             <%= link_to "Investment Banking", investment_banking_path(section: nil)%>
             <div class="subnav">
               <div class="collection">
-                  <%= link_to "Overview", investment_banking_path(section: 'Overview')%>
+                  <%= link_to "Overview", investement_overview_path%>
               </div>
               <div class="collection">
-                <%= link_to "Financing & Recapitalizations", investment_banking_path(section: 'Financing & Recapitalizations')%>
+                <%= link_to "Financing & Recapitalizations", investment_financing_path %>
               </div>
               <div class="collection">
-                <%= link_to "Buy-Side Advisory", investment_banking_path(section: 'Buy-Side Advisory')%>
+                <%= link_to "Buy-Side Advisory", investment_buyside_path %>
               </div>
               <div class="collection">
-                <%= link_to "Sell-Side Advisory", investment_banking_path(section: 'Sell-Side Advisory')%>
+                <%= link_to "Sell-Side Advisory", investment_sellside_path %>
               </div>
               <div class="collection">
-                <%= link_to "Transactions Services", investment_banking_path(section: 'Transactions Services')%>s
+                <%= link_to "Transactions Advisory", investment_transactions_path %>
               </div>
 
             </div>
           <
           <div class="folder">
-            <%= link_to "Venture + Growth", venture_growth_path(:section => nil)%>
+            <%= link_to "Venture + Growth", venture_growth_path %>
             <div class="subnav">
 
               <div class="collection">
-                <%= link_to 'Overview', venture_growth_path(:section => 'Overview') %>
+                <%= link_to 'Overview', venture_growth_overview_path %>
               </div>
 
               <div class="collection">
-                <%= link_to 'Sectors', venture_growth_path(:section=> 'Sectors') %>
+                <%= link_to 'Sectors', venture_growth_sectors_path %>
               </div>
 
             </div>
           </div>
 
           <div class="folder">
-            <div class="folder-toggle" data-href="/about-cgp">About</div>
+            <div class="folder-toggle" data-href="/about-cgp"><%= link_to 'About', about_path %></div>
             <div class="subnav">
 
               <div class="collection">
-                <a href="/experience">
-                  Experience
-                </a>
+                <%= link_to "Experience", about_team_path %>
               </div>
 
               <div class="collection">
-                <%= link_to "Team", team_path %>
+                <%= link_to "Team", about_team_path %>
               </div>
 
               <div class="collection">
-                <a href="/rajesh-kothari">
-                  Harold J Soper
-                </a>
+                <%= link_to "Harold Soper", about_harold_path %>
               </div>
 
               <div class="collection">
-                <a href="/gary-n-lewis">
-                  Cory Leff
-                </a>
+                <%= link_to "Cory Leff", about_cory_path %>
               </div>
 
 
@@ -178,62 +172,57 @@
             <%= link_to "Investment Banking", investment_banking_path(section: nil)%>
             <div class="subnav">
               <div class="collection">
-                <%= link_to "Overview", investment_banking_path(section: 'Overview')%>
+                  <%= link_to "Overview", investement_overview_path%>
               </div>
               <div class="collection">
-                <%= link_to "Financing & Recapitalizations", investment_banking_path(section: 'Financing & Recapitalizations')%>
+                <%= link_to "Financing & Recapitalizations", investment_financing_path %>
               </div>
               <div class="collection">
-                <%= link_to "Buy-Side Advisory", investment_banking_path(section: 'Buy-Side Advisory')%>
+                <%= link_to "Buy-Side Advisory", investment_buyside_path %>
               </div>
               <div class="collection">
-                <%= link_to "Sell-Side Advisory", investment_banking_path(section: 'Sell-Side Advisory')%>
+                <%= link_to "Sell-Side Advisory", investment_sellside_path %>
               </div>
               <div class="collection">
-                <%= link_to "Transactions Services", investment_banking_path(section: 'Transactions Services')%>
+                <%= link_to "Transactions Advisory", investment_transactions_path %>
               </div>
+
             </div>
           </div>
 
           <div class="folder">
-            <%= link_to "Venture + Growth", venture_growth_path(section: nil)%>
+            <%= link_to "Venture + Growth", venture_growth_path %>
             <div class="subnav">
               <div class="collection">
-                <%= link_to 'Overview', venture_growth_path(:section => 'Overview') %>
+                <%= link_to 'Overview', venture_growth_overview_path %>
               </div>
               <div class="collection">
-                <%= link_to 'Sectors', venture_growth_path(:section=> 'Sectors') %>
+                <%= link_to 'Sectors', venture_growth_sectors_path %>
               </div>
             </div>
           </div>
 
 
           <div class="folder">
-            <div class="folder-toggle" data-href="/about-cgp">About</div>
+            <div class="folder-toggle" data-href="/about-cgp"><%= link_to 'About', about_path %></div>
             <div class="subnav">
 
 
 
               <div class="collection">
-                <a href="/experience">
-                  Experience
-                </a>
+                <%= link_to 'Experience', about_experience_path %>
               </div>
 
               <div class="collection">
-                <%= link_to "Team", team_path %>
+                <%= link_to "Team", about_team_path %>
               </div>
 
               <div class="collection">
-                <a href="/rajesh-kothari">
-                  Harold J Soper
-                </a>
+                <%= link_to "Harold Soper", about_harold_path %>
               </div>
 
               <div class="collection">
-                <a href="/gary-n-lewis">
-                  Cory Leff
-                </a>
+                <%= link_to "Cory Leff", about_cory_path %>
               </div>
 
 

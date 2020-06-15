@@ -1,37 +1,20 @@
+<div  class=" banner-thumbnail-wrapper has-description" data-content-field="main-image" data-collection-id="53519fd7e4b0e68461b3d2f1" data-edit-main-image="" data-annotation-alignment="bottom left">
 
-<style type="text/css">
-  .navbar-fixed-left {
-  position: fixed;
-  bottom: 0;
-  left: 5;
-  width: 200px;
+                      <div  class="color-overlay" style="background: rgba(73, 111, 97, 0.3);"> </div>
+                      <figure id="thumbnail" class="loading content-fill" style="overflow: hidden; height: 500px; padding-top: 300px;">
+                        <img data-src="<%= asset_path('cleantech.jpg') %>" data-image="<%= asset_path('cleantech.jpg') %>" data-image-dimensions="1000x350" data-image-focal-point="0.5,0.5" data-parent-ratio="3.5" style=" background-size: cover; background-position:  center;font-size: 0px; left: 0px; top: -388.875px; width: 1900px; height: 1800px; position: relative;" alt="shipping-82339_1280.jpg" class="" data-image-resolution="2500w" src="<%= asset_path('cleantech.jpg') %>">
+                      </figure>
 
-}
+                      <div class="desc-wrapper " data-content-field="description" data-collection-id="53519fd7e4b0e68461b3d2f1" ><p  id="investment-banking-text">Cascade Partners(investment banking text) recognizes a good transaction involves much more than merely closing the deal. It’s about maximizing value not just dollars.</p><p><!--EndFragment--></p></div>
+                    </div>
 
 
-}
+<figure id="thumbnail" class="loading content-fill" style="overflow: hidden;">
+  <img data-src="<%= asset_path('handshake_home_page.jpg') %>" data-image-dimensions="1280x960" data-image-focal-point="0.5,0.5" data-parent-ratio="3.5" style="font-size: 0px; left: 0px; top: -390px; width: 1680px; height: 700px; position: center;" alt="shipping-82339_1280.jpg" class="" data-image-resolution="2500w" src="<%= asset_path('handshake_home_page.jpg') %>">
+</figure>
 
-.navbar-fixed-left .navbar-nav > li {
-  float: none;  /* Cancel default li float: left */
-  width: 139px;
-}
 
-.navbar-fixed-left + .container {
-  padding-left: 160px;
-}
-
-/* On using dropdown menu (To right shift popuped) */
-.navbar-fixed-left .navbar-nav > li > .dropdown-menu {
-  margin-top: -50px;
-  margin-left: 140px;
-}
-
-</style>
-<script type="text/javascript">
-  document.location.hash="#sectors<%= @anchor %>";
-</script>
-
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" class="yui3-js-enabled js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths wf-proximanova-n4-active wf-proximanova-n6-active wf-proximanova-n7-active wf-proximanova-i6-active wf-proximanova-i7-active wf-ffbasicgothicwebpro-n3-active wf-europa-n3-active wf-europa-n4-active wf-europa-n7-active wf-europa-i3-active wf-europa-i7-active wf-active" style="" id="yui_3_17_2_1_1586400025860_112"><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div><head>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" class="yui3-js-enabled js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths wf-proximanova-n4-active wf-proximanova-n6-active wf-proximanova-n7-active wf-proximanova-i6-active wf-proximanova-i7-active wf-ffbasicgothicwebpro-n3-active wf-europa-n3-active wf-europa-n4-active wf-europa-n7-active wf-europa-i3-active wf-europa-i7-active wf-active" style="" id="yui_3_17_2_1_1592002243484_112"><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -56,57 +39,863 @@
 <meta name="twitter:description" content="Cascade Partners recognizes a good transaction involves much more than merely closing the deal. It’s about maximizing value not just dollars.">
 <meta name="description" content="Cascade Partners recognizes a good transaction involves much more than
 merely closing the deal. It’s about maximizing value not just dollars.">
-
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//use.typekit.net/ik/mGJTrOgejptj-4BO6joN9yz9AwfRNlr_TNY_BYPwCyvfezqffFHN4UJLFRbh52jhWD9DwhJU5AbuZQsKw2Ih5esKF2MoFAs8wg76MPG0jhBDjhBqZPu3jW4XdcmkSkoDSWmyScmDSeBRZPoRdhXCjhBDjhBqZPu3jW4XdcmkSkoRdhXCjhBDjhBqZPu3jW4XdcmkSkoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOYiaikoRjWFRjAs8OWgyS1s0ZW4DOcFzdPUaiaS0jhBDjhBqZPu3jW4XdcmkSkoDSWmyScmDSeBRZPoRdhXK2YgkdayTdAIldcNhjPJWZcjljcBD-AwlZhNX-e8ROWi8jKu3ScvKgcmuScN3jPG4fHvgIMMjgfMfH6qJnbIbMg6eJMJ7fbKOMsMMeMS6MKG4fHtgIMMjIfMfH6qJRMIbMg6sJMJ7fbKfssMgeMw6MKG4fH8oIMJjMkMfH6qJ71qbMy6IJMJ7fbKGpsMfeMS6MKGHf55eMsMfeMX6MKGHf5AeMsMfegI6MTMgtE7Ku39.js"></script>
 <style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/l?subset_id=2&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/d?subset_id=2&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/a?subset_id=2&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/f7d492/00000000000000003b9b3067/27/l?subset_id=2&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/f7d492/00000000000000003b9b3067/27/d?subset_id=2&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/f7d492/00000000000000003b9b3067/27/a?subset_id=2&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/4c4052/00000000000000003b9b3069/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/4c4052/00000000000000003b9b3069/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/4c4052/00000000000000003b9b3069/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:ff-basic-gothic-web-pro;src:url(https://use.typekit.net/af/83c2cb/00000000000000003b9b04d0/27/l?subset_id=2&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/83c2cb/00000000000000003b9b04d0/27/d?subset_id=2&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/83c2cb/00000000000000003b9b04d0/27/a?subset_id=2&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}@font-face{font-family:europa;src:url(https://use.typekit.net/af/3e64fb/00000000000000003b9b12fe/27/l?subset_id=2&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/3e64fb/00000000000000003b9b12fe/27/d?subset_id=2&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/3e64fb/00000000000000003b9b12fe/27/a?subset_id=2&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}@font-face{font-family:europa;src:url(https://use.typekit.net/af/4eabcf/00000000000000003b9b12fd/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/4eabcf/00000000000000003b9b12fd/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/4eabcf/00000000000000003b9b12fd/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:europa;src:url(https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:europa;src:url(https://use.typekit.net/af/a386b3/00000000000000003b9b12f9/27/l?subset_id=2&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/a386b3/00000000000000003b9b12f9/27/d?subset_id=2&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/a386b3/00000000000000003b9b12f9/27/a?subset_id=2&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;}@font-face{font-family:europa;src:url(https://use.typekit.net/af/a6fa4a/00000000000000003b9b12fc/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/a6fa4a/00000000000000003b9b12fc/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/a6fa4a/00000000000000003b9b12fc/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}</style><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Alegreya+Sans:400|Oswald:400,300">
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-941454225153b378d7036-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-941454225153b378d7036-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-0343c90c01bd002fd41c1-min.en-US.js" defer=""></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-129151f31980ee2b2b6f0-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-52bdd87acccf92a19703e60e09c654bd-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-2e7636c7c1c0cb55921d7-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-342036262b204974aa269-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e34e617c6a1d3ab8fa7af-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-c2a1684b8ba03c6314ee0-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-1637eb4ee93bed59528921026e024bf4-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-4dbfed0065f782cf676cb-min.en-US.js"},"squarespace-commerce-cart":{"js":"//assets.squarespace.com/universal/scripts-compressed/commerce-cart-9c7372c1575986e40653b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-afeb96ba160fb642a2d98c892a956065-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c2983e521a574e78e248a-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-26aee7d24923b611791e3-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-491a32324d233f31da4b4-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-d21f3e517c32f4caba9f220beea0666d-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-747f7b376a47bd7b30593-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-e23ee315df466f1dba9ec-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-5a660e03e667b16c7a076-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-4725f00d98ee2610ca950-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e984c5797664760d617b07bce15392a1-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-6e487fe347533c2d612bc-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-3fa8fd4df0755e7a7878e60166ca3d61-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-6017bdfa624ad54c4212e-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-ddd7f4d1b8c7fa16b94a5-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-23f4f219258d5a9825483-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-207da8872118254c0a795bf9b187c205-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-6ce913122f8ebf0bbe362-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-89b6a83d4164141263d39-min.en-US.js"},"squarespace-share-buttons":{"js":"//assets.squarespace.com/universal/scripts-compressed/share-buttons-5ccaf8c29b07cb34310e7-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-9ef41bf7ba753d65ec1acf18e093b88a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-f8787764e5d984bae7bd1-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-bf7788a87c794b73afd9d5c49f72f4f3-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c41dbee787825952c7ebb-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-df67e9a8844caf8b5affb-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-68df56a8135961401cbd590171d6b04a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-50b8c12a5a0892fd2760c-min.en-US.js"}},"pageType":2,"website":{"id":"533b19d5e4b0168db4095de0","identifier":"cascade-partners","websiteType":1,"contentModifiedOn":1591890031724,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Detroit","machineTimeZoneOffset":-14400000,"timeZoneOffset":-14400000,"timeZoneAbbr":"EDT","siteTitle":"Cascade Partners","fullSiteTitle":"Overview \u2014 Cascade Partners","siteDescription":"","location":{"mapZoom":11.0,"mapLat":40.67858956275911,"mapLng":-74.0440199669922},"logoImageId":"5435b4c0e4b092234b318f66","shareButtonOptions":{},"logoImageUrl":"//static1.squarespace.com/static/533b19d5e4b0168db4095de0/t/5435b4c0e4b092234b318f66/1591890031724/","authenticUrl":"http://www.cascade-partners.com","internalUrl":"http://cascade-partners.squarespace.com","baseUrl":"http://www.cascade-partners.com","primaryDomain":"www.cascade-partners.com","typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"b36c4904","showOwnerLogin":false},"websiteSettings":{"id":"533b19d5e4b0168db4095de1","websiteId":"533b19d5e4b0168db4095de0","type":"Business","subjects":[],"country":"US","state":"MI","simpleLikingEnabled":false,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":false,"commentAnonAllowed":false,"commentThreaded":false,"commentApprovalRequired":false,"commentAvatarsOn":false,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":false,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":1,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"trialAssistantEnabled":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect","color":"white"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":""},"websiteCloneable":false,"collection":{"title":"Overview","id":"53519fd7e4b0e68461b3d2f1","fullUrl":"/investment-banking-overview","type":10},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","banner-slideshow-controls":"Arrows","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"280px","gridSpacing":"10px","logoContainerWidth":"130px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"220px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52a74dafe4b073a80cd253c5","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","betaFeatureFlags":["ORDERS-SERVICE-check-digital-good-access-with-service","ORDERS-SERVICE-reset-digital-goods-access-with-service","ORDER_SERVICE-submit-subscription-order-through-service","ORDER_SERVICE-submit-reoccurring-subscription-order-through-service","dg_downloads_from_fastly","generic_iframe_loader_for_campaigns","donations_customer_accounts","product-retriever-v2-enabled","domain_registration_via_registrar_service","domain_locking_via_registrar_service","domain_deletion_via_registrar_service","domain_info_via_registrar_service","demo_content_improvement","local_listings","onboarding_wizard_seven_one","seven_one_image_overlay_opacity","gallery_captions_71","commerce_restock_notifications","global_animations","newsletter_block_captcha","gallery_settings_71","seven_one_portfolio_hover_layouts","commerce_minimum_order_amount","seven_one_theme_mapper_v3","domains_transfer_flow_improvements","domains_allow_async_gsuite","domains_use_new_domain_connect_strategy","commerce_instagram_product_checkout_links","campaigns_single_opt_in","seven_one_fonts_panel_targeting","commerce_subscription_order_delay","commerce_activation_experiment_add_payment_processor_card","commerce_product_composer_all_types","trust_arc_on_config","new_billing_system"],"yuiEliminationExperimentList":[{"name":"statsMigrationJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"ContributionConfirmed-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"TextPusher-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"MenuItemWithProgress-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"imageProcJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"QuantityChangePreview-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"CompositeModel-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"HasPusherMixin-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"INACTIVE"},{"name":"ProviderList-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"MediaTracker-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"pushJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"internal-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"BillingPanel-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"PopupOverlayEditor-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"CoverPagePicker-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"}],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://www.cascade-partners.com","name":"Cascade Partners","description":"","image":"//static1.squarespace.com/static/533b19d5e4b0168db4095de0/t/5435b4c0e4b092234b318f66/1591890031724/","@context":"http://schema.org","@type":"WebSite"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/213/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1038-05142015/1589134562741/site.css?&amp;filterFeatures=false"><!-- <![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&part=4"/><![endif]-->
-<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
-<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/533b19d5e4b0168db4095de0/211/52a74dafe4b073a80cd253c5/533b19d5e4b0168db4095de4/1035-05142015/1581704408067/site.css?&amp;filterFeatures=false"><!-- <![endif]-->
+  ga('create', 'UA-71305535-1', 'auto');
+  ga('send', 'pageview');
 
+</script><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var e='ontouchstart'in window||navigator.msMaxTouchPoints;var t=document.documentElement;if(!e&&t){t.className=t.className.replace(/touch-styles/,'')}})()
+    </script>
   <style type="text/css">.disable-hover:not(.sqs-layout-editing), .disable-hover:not(.sqs-layout-editing) * { pointer-events: none  ; }</style></head>
   <body id="collection-53519fd7e4b0e68461b3d2f1" class="nav-button-style-outline nav-button-corner-style-pill banner-button-style-solid banner-button-corner-style-pill banner-slideshow-controls-arrows meta-priority-date hide-entry-author hide-list-entry-footer hide-blog-sidebar center-navigation--info event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address event-icalgcal-links event-excerpts event-item-back-link gallery-design-grid aspect-ratio-auto lightbox-style-light gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-light opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-layout-default collection-53519fd7e4b0e68461b3d2f1 mobile-style-available has-banner-image general-page">
+    <a href="#" class="body-overlay"></a>
+    <div class="sqs-announcement-bar-dropzone"></div>
+    <div id="sidecarNav">
+
+
+  <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
+    <nav id="mobileNavigation">
+
+            <div class="collection homepage">
+              <a href="/">
+                Home
+              </a>
+            </div>
+
+
+          <div class="folder active">
+            <div class="folder-toggle" data-href="/investment-banking">Investment Banking</div>
+            <div class="subnav">
+
+
+
+              <div class="collection active">
+                <a href="/investment-banking-overview">
+                  Overview
+                </a>
+              </div>
 
 
 
 
 
-                <div id="promotedGalleryWrapper" class="sqs-layout promoted-gallery-wrapper "><div class="row"><div class="col"></div></div></div>
+              <div class="collection">
+                <a href="/financing-recapitalizations">
+                  Financing &amp; Recapitalizations
+                </a>
+              </div>
+
+              <div class="collection">
+                <a href="/buy-side-advisory">
+                  Buy Side Advisory
+                </a>
+              </div>
+
+              <div class="collection">
+                <a href="/sell-side-advisory">
+                  Sell Side Advisory
+                </a>
+              </div>
 
 
-                    <div class=" banner-thumbnail-wrapper has-description" data-content-field="main-image" data-collection-id="53519fd7e4b0e68461b3d2f1" data-edit-main-image="" data-annotation-alignment="bottom left">
 
-                      <div class="color-overlay" style="background: rgba(73, 111, 97, 0.3);"> </div>
+
+
+              <div class="collection">
+                <a href="/investment-banking-transactions">
+                  Transactions
+                </a>
+              </div>
+
+
+
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+          <div class="folder">
+            <div class="folder-toggle" data-href="/private-investment">Private Investment</div>
+            <div class="subnav">
+
+
+
+              <div class="collection">
+                <a href="/private-investment-overview">
+                  Overview
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/investment-criteria">
+                  Investment Criteria
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/portfolio">
+                  Portfolio
+                </a>
+              </div>
+
+
+
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+          <div class="folder">
+            <div class="folder-toggle" data-href="/about-cgp">About</div>
+            <div class="subnav">
+
+
+
+              <div class="collection">
+                <a href="/experience">
+                  Experience
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/team">
+                  Team
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/rajesh-kothari">
+                  Rajesh Kothari
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/gary-n-lewis">
+                  Gary N. Lewis
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/ken-marblestone">
+                  Ken Marblestone
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/jon-doehr">
+                  Jon Doehr
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/daniel-walsh-new">
+                  Daniel Walsh
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/mark-zeffiro">
+                  Mark Zeffiro
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/david-thomas">
+                  David Thomas
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/justinstark">
+                  Justin Stark
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/matt-feldman">
+                  Matthew Feldman
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/ashley-gray">
+                  Ashley Gray
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/emerson-fisher">
+                  Emerson Fisher
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/winston-goan">
+                  Winston Goan
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/ryan-collins">
+                  Ryan Collins
+                </a>
+              </div>
+
+
+
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="collection">
+              <a href="/media">
+                Media
+              </a>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="collection">
+              <a href="/contact">
+                Contact
+              </a>
+            </div>
+
+
+
+
+
+
+
+    </nav>
+  </div>
+
+
+
+    </div>
+    <div id="siteWrapper" class="clearfix">
+
+      <div class="sqs-cart-dropzone" style="top: 101px;"></div>
+
+      <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="wrapper" data-content-field="site-title">
+
+              <h1 id="logoImage"><a href="/"><img src="//static1.squarespace.com/static/533b19d5e4b0168db4095de0/t/5435b4c0e4b092234b318f66/1591890031724/?format=1500w" alt="Cascade Partners"></a></h1>
+
+          </div><!--
+          --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
+          --><div id="headerNav">
+
+  <div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
+    <nav id="mainNavigation" data-content-field="navigation-mainNav">
+
+
+
+
+
+
+
+
+
+            <div class="collection homepage">
+              <a href="/">
+                Home
+              </a>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+          <div class="folder active">
+            <div class="folder-toggle" data-href="/investment-banking">Investment Banking</div>
+            <div class="subnav">
+
+
+
+              <div class="collection active">
+                <a href="/investment-banking-overview">
+                  Overview
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/financing-recapitalizations">
+                  Financing &amp; Recapitalizations
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/buy-side-advisory">
+                  Buy Side Advisory
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/sell-side-advisory">
+                  Sell Side Advisory
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/investment-banking-transactions">
+                  Transactions
+                </a>
+              </div>
+
+
+
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+          <div class="folder">
+            <div class="folder-toggle" data-href="/private-investment">Private Investment</div>
+            <div class="subnav">
+
+
+
+              <div class="collection">
+                <a href="/private-investment-overview">
+                  Overview
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/investment-criteria">
+                  Investment Criteria
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/portfolio">
+                  Portfolio
+                </a>
+              </div>
+
+
+
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+          <div class="folder">
+            <div class="folder-toggle" data-href="/about-cgp">About</div>
+            <div class="subnav">
+
+
+
+              <div class="collection">
+                <a href="/experience">
+                  Experience
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/team">
+                  Team
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/rajesh-kothari">
+                  Rajesh Kothari
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/gary-n-lewis">
+                  Gary N. Lewis
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/ken-marblestone">
+                  Ken Marblestone
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/jon-doehr">
+                  Jon Doehr
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/daniel-walsh-new">
+                  Daniel Walsh
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/mark-zeffiro">
+                  Mark Zeffiro
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/david-thomas">
+                  David Thomas
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/justinstark">
+                  Justin Stark
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/matt-feldman">
+                  Matthew Feldman
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/ashley-gray">
+                  Ashley Gray
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/emerson-fisher">
+                  Emerson Fisher
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/winston-goan">
+                  Winston Goan
+                </a>
+              </div>
+
+
+
+
+
+              <div class="collection">
+                <a href="/ryan-collins">
+                  Ryan Collins
+                </a>
+              </div>
+
+
+
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="collection">
+              <a href="/media">
+                Media
+              </a>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="collection">
+              <a href="/contact">
+                Contact
+              </a>
+            </div>
+
+
+
+
+
+
+
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block !important; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+
+
+
+
+
+                <div id="promotedGalleryWrapper" class="sqs-layout promoted-gallery-wrapper"><div class="row"><div class="col"></div></div></div>
+
+
+                    <div class="banner-thumbnail-wrapper has-description" data-content-field="main-image" data-collection-id="53519fd7e4b0e68461b3d2f1" data-edit-main-image="" data-annotation-alignment="bottom left">
+
+                      <div class="color-overlay"></div>
                       <figure id="thumbnail" class="loading content-fill" style="overflow: hidden;">
-                        <img data-src="<%= asset_path('longroadahead.jpg') %>" data-image="<%= asset_path('longroadahead.jpg') %>" data-image-dimensions="1000x350" data-image-focal-point="0.5,0.5" data-parent-ratio="3.5" style="font-size: 0px; left: 0px; top: -388.875px; width: 1900px; height: 800px; position: relative;" alt="shipping-82339_1280.jpg" class="" data-image-resolution="2500w" src="<%= asset_path('longroadahead.jpg') %>">
+                        <img data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1412719206624-J8DPT5K2ANBPXZK56ASJ/ke17ZwdGBToddI8pDm48kIPFGvO6Nsr1EBsFUsKNPFFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxnDHj9JHLTZu-ep74-XwTO_px9sk4aYXPsdUrwOMtbGONO7g1eCRWj4-aYTRqmVoE/iStock_000003120325Small.jpg" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1412719206624-J8DPT5K2ANBPXZK56ASJ/ke17ZwdGBToddI8pDm48kIPFGvO6Nsr1EBsFUsKNPFFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxnDHj9JHLTZu-ep74-XwTO_px9sk4aYXPsdUrwOMtbGONO7g1eCRWj4-aYTRqmVoE/iStock_000003120325Small.jpg" data-image-dimensions="696x690" data-image-focal-point="0.5,0.5" data-parent-ratio="3.5" style="font-size: 0px; left: 0px; top: -592.759px; width: 1680px; height: 1665.52px; position: relative;" alt="iStock_000003120325Small.jpg" class="" data-image-resolution="2500w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1412719206624-J8DPT5K2ANBPXZK56ASJ/ke17ZwdGBToddI8pDm48kIPFGvO6Nsr1EBsFUsKNPFFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxnDHj9JHLTZu-ep74-XwTO_px9sk4aYXPsdUrwOMtbGONO7g1eCRWj4-aYTRqmVoE/iStock_000003120325Small.jpg?format=2500w">
                       </figure>
 
-                      <div class="desc-wrapper " data-content-field="description" data-collection-id="53519fd7e4b0e68461b3d2f1" ><p  id="investment-banking-text">Cascade Partners recognizes a good transaction involves much more than merely closing the deal. It’s about maximizing value not just dollars.<%= javascript_tag "addTextByDelay('#investment-banking-text')" %></p><p><!--EndFragment--></p></div>
+                      <div class="desc-wrapper" data-content-field="description" data-collection-id="53519fd7e4b0e68461b3d2f1"><p>Cascade Partners recognizes a good transaction involves much more than merely closing the deal. It’s about maximizing value not just dollars.</p><p><!--EndFragment--></p></div>
                     </div>
 
 
-      <main id="page" role="main"  >
+
+
+
+
+
+
+
+
+
+
+
+      <main id="page" role="main">
 
         <!--
         --><!--
-        --><div  id="folderNav" data-content-field="navigation-folderNav"  >
-  <div class="folder-nav-toggle "  ></div>
+        --><div id="folderNav" data-content-field="navigation-folderNav">
+  <div class="folder-nav-toggle"></div>
+  <nav class="folder-nav" role="navigation">
+    <ul>
+    <li class="nav-section-label">Investment Banking</li>
 
-  <nav id="navbar"class="folder-nav navbar-fixed-left" >
-    <ul >
-    <li class=" nav-section-label">Venture + Growth</li>
 
-      <li class="page-collection " style="padding-bottom: 3px;"><%= link_to('Overview', :anchor => 'overview') %></li>
-      <li class="page-collection" style="padding-bottom: 3px;"><%= link_to('Sectors', :anchor => 'sectors') %></li>
+
+      <li class="page-collection active-link"><a href="/investment-banking-overview">Overview</a></li>
+
+
+
+
+
+
+
+      <li class="page-collection"><a href="/financing-recapitalizations">Financing &amp; Recapitalizations</a></li>
+
+
+
+
+
+
+
+      <li class="page-collection"><a href="/buy-side-advisory">Buy Side Advisory</a></li>
+
+
+
+
+
+
+
+      <li class="page-collection"><a href="/sell-side-advisory">Sell Side Advisory</a></li>
+
+
+
+
+
+
+
+      <li class="page-collection"><a href="/investment-banking-transactions">Transactions</a></li>
+
+
+
+
 
     </ul>
   </nav>
 </div><!--
         --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="53519fd7e4b0e68461b3d2f1" data-edit-main-image="">
-         <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1540306395419" id="page-53519fd7e4b0e68461b3d2f1"><div class="row sqs-row" id="yui_3_17_2_1_1586400025860_111"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1586400025860_110"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1412717418905_24776"><div class="sqs-block-content"><h2 style="white-space: pre-wrap;"><p id="overview">Overview</p></h2><p style="white-space: pre-wrap;">Everything we do originates from an express desire to meet the unique objectives of each of our client partners.&nbsp; We impact their success by bringing a range of solutions and approaches drawn from nearly 200 years of collective deal experience.&nbsp; Operating experience, board experience and investment experience ensure we maximize value, not just dollars.</p><p style="white-space: pre-wrap;">Our services include transaction advisory for buyers and sellers, financing and recapitalization assistance, and divestitures. We understand the impact of growth aspirations and the implications of succession challenges. We have been in your shoes. Our experience provides us with an understanding of all perspectives and the insight to anticipate actions throughout the transaction.</p><p style="white-space: pre-wrap;">Our research-driven process and broad perspective leverages more than just our past experience and places our partners in position to achieve their goals in today’s market.&nbsp; We have worked with hundreds of companies and analyzed dozen of industries.&nbsp; We are not merely financial engineers. We figure out what makes our clients different and what drives their business. We utilize that understanding to showcase the value to the right partners.</p>Our extensive service offering allows us to provide unbiased advice that will assist our partners in achieving their goals and maximizing value.</div></div><div class="sqs-block image-block sqs-block-image sqs-col-3 span-3 float float-right sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1524607494941_26649"><div class="sqs-block-content" id="yui_3_17_2_1_1586400025860_109">
+         <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1540306395419" id="page-53519fd7e4b0e68461b3d2f1"><div class="row sqs-row" id="yui_3_17_2_1_1592002243484_111"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1592002243484_110"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1412717418905_24776"><div class="sqs-block-content"><h2 style="white-space: pre-wrap;">As a partner, we work to ensure our clients understand the broader impact a transaction has on their company, employees, family, wealth and personal lives.</h2><p style="white-space: pre-wrap;">Everything we do originates from an express desire to meet the unique objectives of each of our client partners.&nbsp; We impact their success by bringing a range of solutions and approaches drawn from nearly 200 years of collective deal experience.&nbsp; Operating experience, board experience and investment experience ensure we maximize value, not just dollars.</p><p style="white-space: pre-wrap;">Our services include transaction advisory for buyers and sellers, financing and recapitalization assistance, and divestitures. We understand the impact of growth aspirations and the implications of succession challenges. We have been in your shoes. Our experience provides us with an understanding of all perspectives and the insight to anticipate actions throughout the transaction.</p><p style="white-space: pre-wrap;">Our research-driven process and broad perspective leverages more than just our past experience and places our partners in position to achieve their goals in today’s market.&nbsp; We have worked with hundreds of companies and analyzed dozen of industries.&nbsp; We are not merely financial engineers. We figure out what makes our clients different and what drives their business. We utilize that understanding to showcase the value to the right partners.</p><p style="white-space: pre-wrap;">Our extensive service offering allows us to provide unbiased advice that will assist our partners in achieving their goals and maximizing value. </p><p style="white-space: pre-wrap;">&nbsp;</p><h3 style="white-space: pre-wrap;"><a href="/buy-side-advisory">Buy Side Advisory</a></h3><p style="white-space: pre-wrap;">A research-driven process has given us success in finding the right companies to meet our client partners’ needs in whatever geography they are focused. We make sure the strategy drives the deals and assist throughout the entire acquisition process for one-time deals and ongoing initiatives.&nbsp;<br>&nbsp;</p><h3 style="white-space: pre-wrap;"><a href="/sell-side-advisory">Sell Side Advisory</a></h3><p style="white-space: pre-wrap;">Our sell side advisory services are anything but traditional. Our experience as operators and investors allows us to identify and highlight specific value drivers for potential acquirers,&nbsp;widening the field and maximizing value for our client partners.<br>&nbsp;</p><h3 style="white-space: pre-wrap;"><a href="/financing-recapitalizations">Financings and Recapitalizations</a></h3><p style="white-space: pre-wrap;">We specialize in securing financing for businesses. There are more options than most organizations realize. Whether you want to buy out a partner, make acquisitions or merely take a few chips off the table, we present options that don't require giving up control and go beyond traditional lenders.&nbsp;</p></div></div><div class="sqs-block image-block sqs-block-image sqs-col-3 span-3 float float-right sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1524607494941_26649"><div class="sqs-block-content" id="yui_3_17_2_1_1592002243484_109">
 
-<p id="sectors" ></p>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1524607494941_33940"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;" >Sectors</h3><p style="white-space: pre-wrap;">As one of <strong>30 global investment banks</strong> in GCG, we are partnered with nearly <strong>600 accounting and law firms</strong>; these relationships afford us expertise and direct access in over <strong>20 countries</strong>. Cascade Partners has executed transactions in <strong>5 of 7 continents</strong>. Our extensive international experience provides optimal cross border solutions.</p>
+
+
+
+
+
+
+
+
+
+
+
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1592002243484_108">
+
+
+
+
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:1440.0px;" id="yui_3_17_2_1_1592002243484_107">
+
+
+
+
+
+          <a class="
+                sqs-block-image-link
+
+
+
+              " href="https://www.gcg.com/" target="_blank" id="yui_3_17_2_1_1592002243484_106">
+
+          <div style="padding-bottom: 66.25%; overflow: hidden;" class="
+                image-block-wrapper
+
+
+
+                has-aspect-ratio
+              " data-animation-role="image" id="yui_3_17_2_1_1592002243484_105">
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png" alt="GCG-Independent-member.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png" data-image-dimensions="1440x954" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5adfafb3562fa79909b34abe" data-type="image" style="left: 0%; top: -0.189394%; width: 100%; height: 100.379%; position: absolute;" alt="GCG-Independent-member.png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png?format=300w">
+          </div>
+
+          </a>
+
+
+
+
+        </figure>
+
+
+    </div>
+
+
+
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1524607494941_33940"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Global Reach, Local Presence</h3><p style="white-space: pre-wrap;">As one of <strong>30 global investment banks</strong> in GCG, we are partnered with nearly <strong>600 accounting and law firms</strong>; these relationships afford us expertise and direct access in over <strong>20 countries</strong>. Cascade Partners has executed transactions in <strong>5 of 7 continents</strong>. Our extensive international experience provides optimal cross border solutions.</p><h3 style="white-space: pre-wrap;">Awards &amp; Recognition</h3></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="{&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:false,&quot;aspect-ratio&quot;:&quot;square&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;collectionId&quot;:&quot;5bcf34b1f4e1fc0193f37680&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;lightbox&quot;:false,&quot;padding&quot;:20,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:false,&quot;thumbnails-per-row&quot;:3,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5bcf34b1f4e1fc0193f37680&quot;}" data-block-type="8" id="block-yui_3_17_2_1_1540305586559_24952"><div class="sqs-block-content">
+
+
+
+
+
+
 
 
 
@@ -118,11 +907,147 @@ merely closing the deal. It’s about maximizing value not just dollars.">
 
 
 
+
+
+
+
   sqs-gallery-block-show-meta
 
 
 
-  clear" id="yui_3_17_2_1_1586400025860_150">
+
+
+
+
+
+  clear" id="yui_3_17_2_1_1592002243484_150">
+  <div class="sqs-gallery sqs-gallery-design-grid" id="yui_3_17_2_1_1592002243484_167">
+
+
+
+
+
+
+
+
+
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1592002243484_204">
+              <div class="margin-wrapper">
+                <a class="image-slide-anchor content-fit">
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306097717-VZWNXHW9QTNB363FBK79/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV1+Pad.png" alt="CP Award Ad Template REV1 Pad.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306097717-VZWNXHW9QTNB363FBK79/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV1+Pad.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306097717-VZWNXHW9QTNB363FBK79/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV1+Pad.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcf34b17817f7a23f1a85e1" data-type="image" data-parent-ratio="1.0" style="left: 27.5px; top: 0px; width: 165px; height: 220px; position: relative;" alt="CP Award Ad Template REV1 Pad.png" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306097717-VZWNXHW9QTNB363FBK79/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV1+Pad.png?format=500w">
+                </a>
+
+              </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1592002243484_205">
+              <div class="margin-wrapper">
+                <a class="image-slide-anchor content-fit">
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306175771-UUU75MVI6YWEHNXLIKEC/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV4+Pad.png" alt="CP Award Ad Template REV4 Pad.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306175771-UUU75MVI6YWEHNXLIKEC/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV4+Pad.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306175771-UUU75MVI6YWEHNXLIKEC/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV4+Pad.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcf34ff8165f5032f8c8571" data-type="image" data-parent-ratio="1.0" style="left: 27.5px; top: 0px; width: 165px; height: 220px; position: relative;" alt="CP Award Ad Template REV4 Pad.png" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306175771-UUU75MVI6YWEHNXLIKEC/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV4+Pad.png?format=500w">
+                </a>
+
+              </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1592002243484_206">
+              <div class="margin-wrapper">
+                <a class="image-slide-anchor content-fit">
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306185594-TZY8PVIIK5PPTIKCE24V/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV2+Pad.png" alt="CP Award Ad Template REV2 Pad.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306185594-TZY8PVIIK5PPTIKCE24V/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV2+Pad.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306185594-TZY8PVIIK5PPTIKCE24V/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV2+Pad.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcf3509e5e5f07db023d536" data-type="image" data-parent-ratio="1.0" style="left: 27.5px; top: 0px; width: 165px; height: 220px; position: relative;" alt="CP Award Ad Template REV2 Pad.png" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306185594-TZY8PVIIK5PPTIKCE24V/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV2+Pad.png?format=500w">
+                </a>
+
+              </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1592002243484_207">
+              <div class="margin-wrapper">
+                <a class="image-slide-anchor content-fit">
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306192742-CJ58E8XATBX1L180NJJP/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV5+Pad.png" alt="CP Award Ad Template REV5 Pad.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306192742-CJ58E8XATBX1L180NJJP/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV5+Pad.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306192742-CJ58E8XATBX1L180NJJP/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV5+Pad.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcf35104785d3904d0eaabd" data-type="image" data-parent-ratio="1.0" style="left: 27.5px; top: 0px; width: 165px; height: 220px; position: relative;" alt="CP Award Ad Template REV5 Pad.png" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306192742-CJ58E8XATBX1L180NJJP/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV5+Pad.png?format=500w">
+                </a>
+
+              </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1592002243484_208">
+              <div class="margin-wrapper">
+                <a class="image-slide-anchor content-fit">
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306199204-ZDPXHTYNL09JQ2LLOH39/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV3+Pad.png" alt="CP Award Ad Template REV3 Pad.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306199204-ZDPXHTYNL09JQ2LLOH39/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV3+Pad.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306199204-ZDPXHTYNL09JQ2LLOH39/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV3+Pad.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcf3517652dea9731a6de54" data-type="image" data-parent-ratio="1.0" style="left: 27.5px; top: 0px; width: 165px; height: 220px; position: relative;" alt="CP Award Ad Template REV3 Pad.png" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306199204-ZDPXHTYNL09JQ2LLOH39/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV3+Pad.png?format=500w">
+                </a>
+
+              </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1592002243484_209">
+              <div class="margin-wrapper">
+                <a class="image-slide-anchor content-fit">
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306220807-H8YSXP37Z732ENLQ35AL/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV6+Pad.png" alt="CP Award Ad Template REV6 Pad.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306220807-H8YSXP37Z732ENLQ35AL/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV6+Pad.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306220807-H8YSXP37Z732ENLQ35AL/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV6+Pad.png" data-image-dimensions="675x900" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcf352c652dea9731a6df44" data-type="image" data-parent-ratio="1.0" style="left: 27.5px; top: 0px; width: 165px; height: 220px; position: relative;" alt="CP Award Ad Template REV6 Pad.png" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1540306220807-H8YSXP37Z732ENLQ35AL/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzFlvs-2dOfZr7fSUOV30Ac4iESyPKl5QYbjC8Z49kt8vkehTgkJANZQ7Q0HZjOEbY/CP+Award+Ad+Template+REV6+Pad.png?format=500w">
+                </a>
+
+              </div>
+            </div>
+
+
+
+
 
 
 
@@ -142,16 +1067,374 @@ merely closing the deal. It’s about maximizing value not just dollars.">
 
 
 
-
 </div></div></div></div></div>
         </div><!--
         -->
 
       </main>
 
+      <div id="preFooter" class="">
+        <div class="pre-footer-inner">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1530645288707" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1412712822928_29142"><div class="sqs-block-content"><h3>Detroit</h3><p>248.430.6266<br>29100 Northwestern Hwy., Suite 405<br>Southfield, Michigan 48034</p></div></div></div><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-0 span-0"></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_5_1425579957677_8723"><div class="sqs-block-content"><h3>Cleveland</h3><p>216.404.7221<br>30000 Chagrin Blvd,<br>Suite 200<br>Cleveland, Ohio<br>44124</p></div></div></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-yui_3_17_2_1_1412712822928_5586"><div class="sqs-block-content">
 
 
-</body>
 
 
-</html>
+
+<div class="form-wrapper">
+
+  <div class="form-inner-wrapper">
+    <form data-form-id="543449ade4b0654a229b3d99" data-success-redirect="" autocomplete="on" method="POST" action="https://cascade-partners.squarespace.com" onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '543449ade4b0654a229b3d99',
+      collectionId: '',
+      objectName: 'preFooterBlocks'
+    });
+  });
+  return false;
+})(this);">
+
+        <div class="field-list clear">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              <fieldset id="name-yui_3_17_2_1_1412712822928_9469" class="form-item fields name required">
+
+            <legend class="title">
+              Name
+
+                <span class="required" aria-hidden="true">*</span>
+
+            </legend>
+
+
+                <div class="field first-name">
+                  <label class="caption">
+                    <input class="field-element field-control" name="fname" x-autocompletetype="given-name" type="text" spellcheck="false" maxlength="30" data-title="First" aria-required="true">
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input class="field-element field-control" name="lname" x-autocompletetype="surname" type="text" spellcheck="false" maxlength="30" data-title="Last" aria-required="true">
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              <div id="email-yui_3_17_2_1_1412712822928_9796" class="form-item field email required">
+
+            <label class="title" for="email-yui_3_17_2_1_1412712822928_9796-field">
+              Email Address
+
+                <span class="required" aria-hidden="true">*</span>
+
+            </label>
+
+
+                <input class="field-element" id="email-yui_3_17_2_1_1412712822928_9796-field" name="email" type="email" autocomplete="email" spellcheck="false" aria-required="true">
+              </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+      <div data-animation-role="button" class="
+          form-button-wrapper
+
+            form-button-wrapper--align-right
+
+        ">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Let's Connect">
+      </div>
+
+
+
+      <div class="hidden form-submission-text"><p>Thank you!<br>A member from our team will contact you shortly.&nbsp;</p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+        </div>
+      </div>
+
+      <footer id="footer" role="contentinfo">
+        <div class="footer-inner" id="yui_3_17_2_1_1592002243484_133">
+          <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
+          <div id="secondaryNavWrapper" class="nav-wrapper" data-content-field="navigation-secondaryNav">
+  <nav id="secondaryNavigation" data-content-field="navigation-secondaryNav">
+
+
+
+
+
+
+
+          <div class="collection" id="id55c3c1d3e4b0d25cdccffb0f">
+            <a href="/careers">
+              <span>Careers</span>
+            </a>
+          </div>
+
+
+
+
+
+
+
+  </nav>
+</div>
+
+
+
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1538075974424" id="footerBlocks"><div class="row sqs-row" id="yui_3_17_2_1_1592002243484_132"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1592002243484_131"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-713fe491a2c303b33937"><div class="sqs-block-content"><p style="text-align: center; white-space: pre-wrap;">© 2016-2017 Cascade Partners &nbsp;| Securities Offered through Cascade Partners BD LLC - <a href="http://www.finra.org/" target="_blank">FINRA</a> / <a href="http://www.sipc.org/" target="_blank">SIPC</a> Member</p></div></div><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1538075832435_7877"><div class="sqs-block-content" id="yui_3_17_2_1_1592002243484_130">
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1592002243484_129">
+
+
+
+
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:300.0px;" id="yui_3_17_2_1_1592002243484_128">
+
+
+
+
+
+          <a class="
+                sqs-block-image-link
+
+
+
+              " href="https://www.gcg.com/" target="_blank" id="yui_3_17_2_1_1592002243484_127">
+
+          <div style="padding-bottom: 51.6667%; overflow: hidden;" class="
+                image-block-wrapper
+
+
+
+                has-aspect-ratio
+              " data-animation-role="image" id="yui_3_17_2_1_1592002243484_126">
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1538075905457-MIAPUQ6L0PQLGN4I18EP/ke17ZwdGBToddI8pDm48kDhuaOL8bo6AacsYr0lWFxNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH_7fXTXkstryKiqcvy8gKx-co2Tr-G-uS3J3_cOCVwtib8BodarTVrzIWCp72ioWw/gcg_capital_logo_member_vers_300.png" alt="gcg_capital_logo_member_vers_300.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1538075905457-MIAPUQ6L0PQLGN4I18EP/ke17ZwdGBToddI8pDm48kDhuaOL8bo6AacsYr0lWFxNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH_7fXTXkstryKiqcvy8gKx-co2Tr-G-uS3J3_cOCVwtib8BodarTVrzIWCp72ioWw/gcg_capital_logo_member_vers_300.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1538075905457-MIAPUQ6L0PQLGN4I18EP/ke17ZwdGBToddI8pDm48kDhuaOL8bo6AacsYr0lWFxNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH_7fXTXkstryKiqcvy8gKx-co2Tr-G-uS3J3_cOCVwtib8BodarTVrzIWCp72ioWw/gcg_capital_logo_member_vers_300.png" data-image-dimensions="300x155" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bad2d01104c7b5a728a23a9" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" alt="gcg_capital_logo_member_vers_300.png" data-image-resolution="750w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1538075905457-MIAPUQ6L0PQLGN4I18EP/ke17ZwdGBToddI8pDm48kDhuaOL8bo6AacsYr0lWFxNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH_7fXTXkstryKiqcvy8gKx-co2Tr-G-uS3J3_cOCVwtib8BodarTVrzIWCp72ioWw/gcg_capital_logo_member_vers_300.png?format=750w">
+          </div>
+
+          </a>
+
+
+
+
+        </figure>
+
+
+    </div>
+
+
+
+
+
+
+</div></div></div></div></div>
+        </div>
+      </footer>
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1038/scripts/site-bundle.js" type="text/javascript"></script>
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+
+
+</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Side Advisory</a></h3><p style="white-space: pre-wrap;">A research-driven process has given us success in finding the right companies to meet our client partners’ needs in whatever geography they are focused. We make sure the strategy drives the deals and assist throughout the entire acquisition process for one-time deals and ongoing initiatives.&nbsp;<br>&nbsp;</p><h3 style="white-space: pre-wrap;"><a href="/sell-side-advisory">Sell Side Advisory</a></h3><p style="white-space: pre-wrap;">Our sell side advisory services are anything but traditional. Our experience as operators and investors allows us to identify and highlight specific value drivers for potential acquirers,&nbsp;widening the field and maximizing value for our client partners.<br>&nbsp;</p><h3 style="white-space: pre-wrap;"><a href="/financing-recapitalizations">Financings and Recapitalizations</a></h3><p style="white-space: pre-wrap;">We specialize in securing financing for businesses. There are more options than most organizations realize. Whether you want to buy out a partner, make acquisitions or merely take a few chips off the table, we present options that don't require giving up control and go beyond traditional lenders.&nbsp;</p></div></div><div class="sqs-block image-block sqs-block-image sqs-col-3 span-3 float float-right sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1524607494941_26649"><div class="sqs-block-content" id="yui_3_17_2_1_1592001963107_109">
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1592001963107_108">
+
+
+
+
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:1440.0px;" id="yui_3_17_2_1_1592001963107_107">
+
+
+
+
+
+          <a class="
+                sqs-block-image-link
+
+
+
+              " href="https://www.gcg.com/" target="_blank" id="yui_3_17_2_1_1592001963107_106">
+
+          <div style="padding-bottom: 66.25%; overflow: hidden;" class="
+                image-block-wrapper
+
+
+
+                has-aspect-ratio
+              " data-animation-role="image" id="yui_3_17_2_1_1592001963107_105">
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png" alt="GCG-Independent-member.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png" data-image="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png" data-image-dimensions="1440x954" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5adfafb3562fa79909b34abe" data-type="image" style="left: 0%; top: -0.189394%; width: 100%; height: 100.379%; position: absolute;" alt="GCG-Independent-member.png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/533b19d5e4b0168db4095de0/1524608947986-VERCFF806LQ4MNW7O7VM/ke17ZwdGBToddI8pDm48kKIri1vIkIkS9f8mre4daFcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcrJWTrJFEBX8c1GZrRLu0FvC4xpmeLzBNKWbCfVwWEivg7YWf5njBjbyZbESEICsv/GCG-Independent-member.png?format=300w">
+          </div>
+
+          </a>
+
+
+
+
+        </figure>
+
+
+    </div>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1524607494941_33940"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Global Reach, Local Presence</h3><p style="white-space: pre-wrap;">As one of <strong>30 global investment banks</strong> in GCG, we are partnered with nearly <strong>600 accounting and law firms</strong>; these relationships afford us expertise and direct access in over <strong>20 countries</strong>. Cascade Partners has executed transactions in <strong>5 of 7 continents</strong>. Our extensive international experience provides optimal cross border solutions.</p></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="{&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:false,&quot;aspect-ratio&quot;:&quot;square&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;collectionId&quot;:&quot;5bcf34b1f4e1fc0193f37680&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;lightbox&quot;:false,&quot;padding&quot;:20,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:false,&quot;thumbnails-per-row&quot;:3,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5bcf34b1f4e1fc0193f37680&quot;}" data-block-type="8" id="block-yui_3_17_2_1_1540305586559_24952"><div class="sqs-block-content">
