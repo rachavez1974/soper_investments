@@ -1,3 +1,19 @@
-ContactUs#email_harold
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
 
-<%= @greeting %>, find me in app/views/contact_us_mailer/email_harold.text.erb
+<div class="w3-container">
+  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+    <h1>Harold, you have a new email.</h1>
+    <p>From: <%= @user_info[:name] %></p>
+    <p>Email: <%= @user_info[:email] %></p>
+    <p>Subject: <%= @user_info[:subject] %></p>
+    <p>Message: <%= @user_info[:message] %></p>
+  </div>
+</div>
+
+</body>
+</html>

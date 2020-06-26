@@ -5,9 +5,8 @@ class ContactUsMailer < ApplicationMailer
   #
   #   en.contact_us_mailer.email_harold.subject
   #
-  def email_harold(user)
-    @greeting = "Hi Harold"
-
+  def email_harold(user_info)
+    @user_info = user_info
     mail to: "rachavez1974@gmail.com"
   end
 
@@ -17,8 +16,7 @@ class ContactUsMailer < ApplicationMailer
   #   en.contact_us_mailer.email_cory.subject
   #
   def email_cory(user)
-    @greeting = "Hi cory"
-
+    @user_info = user_info
     mail to: "rachavez1974@gmail.com"
   end
 end

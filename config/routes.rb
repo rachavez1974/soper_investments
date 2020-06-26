@@ -24,4 +24,5 @@ Rails.application.routes.draw do
   get '/investment_sellside', to: 'investment_banking#sell_side_advisory'
   get '/investment_transactions', to: 'investment_banking#transactions_services'
   post '/email_harold', to: "about#email_harold"
+  post '/email_cory', to: "about#email_cory"
 end

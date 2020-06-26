@@ -20,9 +20,19 @@ class AboutController < ApplicationController
       subject: params[:subject]
     }
 
-        ContactUsMailer.email_harold(user_info).deliver_now
+    MailJob.perform_later(user_info, { 'email_to' => 'harold' })
+    redirect_to about_team_path
+  end
 
-    # MailJob.perform_later(@user_info)
+  def email_cory
+    user_info = {
+      name: params[:name],
+      email: params[:email],
+      message: params[:message],
+      subject: params[:subject]
+    }
+
+    MailJob.perform_later(user_info, { 'email_to' => 'cory' })
     redirect_to about_team_path
   end
 end
